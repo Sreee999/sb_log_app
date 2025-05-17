@@ -21,6 +21,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		double sal = 998875.78; 
 
 		String university = "S V University"; 
+		int num5 = 100; 
 
 	}
 

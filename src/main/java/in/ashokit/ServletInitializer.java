@@ -22,7 +22,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 		String university = "S V University"; 
 		int num5 = 100; 
-		int num25 = 25;
+		int num50 = 50;
 
 	}
 

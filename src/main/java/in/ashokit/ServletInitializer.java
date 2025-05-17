@@ -10,6 +10,10 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		return application.sources(SbRestAppApplication.class);
 		
 		
+		int empId = 111;
+		String name = "Siva";
+		double sal = 99999.95;
+		
 
 	}
 

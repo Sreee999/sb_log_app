@@ -16,6 +16,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		
 		int num3 = 30; 
 
+		boolean status = false;
+
 	}
 
 }

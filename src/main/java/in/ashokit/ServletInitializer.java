@@ -10,7 +10,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		return application.sources(SbRestAppApplication.class);
 		
 		
-		
+		int empId = 101;
 		
 
 	}

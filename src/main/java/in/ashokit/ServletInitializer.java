@@ -17,6 +17,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		int num3 = 30; 
 
 		boolean status = false;
+		
+		double sal = 998875.78; 
 
 	}
 

@@ -17,6 +17,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		boolean status = false;
 
 		String university = "S V University"; 
+		int num5 = 100; 
 
 	}
 

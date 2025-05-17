@@ -14,6 +14,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 		String name = "Sreee";
 
+		int num3 = 30; 
+
 	}
 
 }

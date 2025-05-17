@@ -11,6 +11,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		
 		
 		int empId = 101;
+		String name = "Vishnu"; 
 		
 
 	}

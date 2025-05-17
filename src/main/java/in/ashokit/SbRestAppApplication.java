@@ -10,6 +10,7 @@ public class SbRestAppApplication {
 		SpringApplication.run(SbRestAppApplication.class, args);
 		int i  = 10;
 		int j = 20;
+		String name = "Sreenivas";
 	}
 
 }

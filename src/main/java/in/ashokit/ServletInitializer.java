@@ -8,7 +8,9 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(SbRestAppApplication.class);
-		int name = "SreeNivas"; 
+		String name = "SreeNivas"; 
+		int num10 = 1000; 
+		
 
 	}
 

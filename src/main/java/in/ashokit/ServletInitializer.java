@@ -15,5 +15,11 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		
 
 	}
+	
+	// jira-102 story 
+	public void m2() {
+		
+		  // some logic 
+	}
 
 }

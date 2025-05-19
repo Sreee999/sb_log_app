@@ -16,10 +16,17 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	}
 	
+
 	// jira-102 story 
 	public void m2() {
 		
 		  // some logic 
+	}
+
+	public void m1() {
+		int num1 = 10; 
+		int num2 = 20; 
+
 	}
 
 }

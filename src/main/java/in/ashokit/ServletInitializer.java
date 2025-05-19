@@ -9,7 +9,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(SbRestAppApplication.class);
 		
-		
+		int empId = 901; 
 		int empId = 101;
 		String name = "Vishnu"; 
 		
